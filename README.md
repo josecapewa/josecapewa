@@ -3,7 +3,7 @@
 # Hi, my name is José Capewa 👋 
 ### Welcome to my GitHub profile!:tea::cake:
 I'm a young beginner web-developer. 
-### Languagens that I'm learning:
+### Languages that I'm learning:
 + <a href="w3schools.com/c"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="width:50px;height:50px"></a>
 + <a href="html.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:50px;height:50px"></a>
 + <a href="javascript.com"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" style="width:50px;height:50px"></a>
